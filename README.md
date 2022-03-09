@@ -4,9 +4,9 @@ Listing companies that are still doing business with Russia. This is a
 simple nextjs site that can be deployed through 
 [cloudflare pages](https://developers.cloudflare.com/pages/framework-guides/deploy-a-nextjs-site/).
 
-To contribute, simply add a new industry in the `/industries` directory
+To contribute, **simply add a new industry in the `/industries` directory
 or extend an existing industry `.md` file by adding a new company. Remember
-to add a couple of spaces to obtain a newline.
+to add a couple of spaces to obtain a newline.**
 
 Let's improve this project and keep the list updated.
 

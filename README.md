@@ -8,6 +8,8 @@ To contribute, simply add a new industry in the `/industries` directory
 or extend an existing industry `.md` file by adding a new company. Remember
 to add a couple of spaces to obtain a newline.
 
+Let's improve this project and keep the list updated.
+
 ## Development
 
 Develop while running the server with `pnpm dev`.
